@@ -252,7 +252,7 @@ App.css 只需要修改一行background-color颜色的代码
 }
 ```
 
-然后去你Eectron的上看最终效果，大概是长这样的
+然后去你Electron的上看最终效果，大概是长这样的
 
 
 ![](https://user-gold-cdn.xitu.io/2020/2/6/170188544c02be6f?w=800&h=600&f=jpeg&s=294302)
